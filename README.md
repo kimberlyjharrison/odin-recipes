@@ -4,3 +4,4 @@ This repo is for the Project: Recipes project from The Odin Project Foundations 
 
 * Create basic website using HTML
 * Utilize git for version control
+* Testing git because I broke it!
